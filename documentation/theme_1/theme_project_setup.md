@@ -1,18 +1,12 @@
-# Theme 1.0: Project Setup
-## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
-## Initiative(s)
+# Theme: Create a website that provide a platform for teachers and students to learn web development concepts, tools, and techniques.
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+Our objective is to create a website that will provide a platform for teachers and students to learn web development concepts, tools, and techniques. The website will cover various topics, including Github, JavaScript, Python, Docker, responsive design, and web frameworks.
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
-## Test plan
-How will this be tested?
+## Initiatives
+
+* [Create a user-friendly website with high quality content, clear navigation and visually appealing design](initiatives/documentation_initiative.md)
+* [Ensure Website Compliance with Legal Regulations](initiatives/initiative_devops.md)
+* [Implement Google Analytics to Track Website Traffic and User Behavior](initiatives/initiative_webpage_template.md)
+* [Implement a continuous improvement process for the development team based and agile methodology](initiatives/initiative_webpage_template.md)
+* [Improve the efficiency of the deployment process through comprehensive automated testing](initiatives/initiative_webpage_template.md)
