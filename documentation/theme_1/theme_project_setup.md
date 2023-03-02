@@ -5,8 +5,8 @@ Our objective is to create a website that will provide a platform for teachers a
 
 ## Initiatives
 
-* [Create a user-friendly website with high quality content, clear navigation and visually appealing design](initiatives/documentation_initiative.md)
-* [Ensure Website Compliance with Legal Regulations](initiatives/initiative_devops.md)
-* [Implement Google Analytics to Track Website Traffic and User Behavior](initiatives/initiative_webpage_template.md)
-* [Implement a continuous improvement process for the development team based and agile methodology](initiatives/initiative_webpage_template.md)
-* [Improve the efficiency of the deployment process through comprehensive automated testing](initiatives/initiative_webpage_template.md)
+* [Create a user-friendly website with high quality content, clear navigation and visually appealing design](initiatives/initiative_website.md)
+* [Ensure Website Compliance with Legal Regulations](initiatives/initiative_compliance.md)
+* [Implement Google Analytics to Track Website Traffic and User Behavior](initiatives/initiative_analytics.md)
+* [Implement a continuous improvement process for the development team based and agile methodology](initiatives/initiative_cicd.md)
+* [Improve the efficiency of the deployment process through comprehensive automated testing](initiatives/initiative_deployment.md)
