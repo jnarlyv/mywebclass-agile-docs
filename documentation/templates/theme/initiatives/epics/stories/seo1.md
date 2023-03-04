@@ -7,6 +7,6 @@ The website has clear and concise title tags that accurately describes the websi
 
 # List of Tasks related to this item
 
-1) [Optimize website structure and navigation to improve user experience and search engine indexing](https://github.com/jnarlyv/mywebclass-agile-docs/blob/projectmod/documentation/templates/theme/initiatives/epics/stories/tasks/seo1-1.md)
+1) [Optimize website structure and navigation to improve user experience, search engine indexing and include robots.txt file](https://github.com/jnarlyv/mywebclass-agile-docs/blob/projectmod/documentation/templates/theme/initiatives/epics/stories/tasks/seo1-1.md)
 2) [Create and submit a sitemap to help search engines crawl and index the website](https://github.com/jnarlyv/mywebclass-agile-docs/blob/projectmod/documentation/templates/theme/initiatives/epics/stories/tasks/seo1-2.md)
 
