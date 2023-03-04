@@ -2,7 +2,7 @@ As a website owner, I want to ensure that the website is optimized for search en
 
 Acceptance Criteria:
 
-The website has clear and concise title tags that accurately describes the website's content and includes relevant keywords. In addition, meta descriptions are included for each page on the website, describing the content of the page and including relevant keywords. Sitemap that includes all pages on the website is easily accessible to search engines.
+The website has clear and concise title tags that accurately describes the website's content and includes relevant keywords. In addition, meta descriptions are included for each page on the website, describing the content of the page and including relevant keywords. Sitemap that includes all pages on the website is easily accessible to search engines. Enable breadcrumbs as a navigation aid that help users keep track of their location within the website hierarchy
 
 
 # List of Tasks related to this item
