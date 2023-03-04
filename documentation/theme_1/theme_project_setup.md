@@ -16,3 +16,6 @@ Our objective is to create a website that will provide a platform for teachers a
 2) Test the website's search engine optimization (SEO) by checking its visibility on search engines like Google and Bing.
 3) Conduct user acceptance testing by getting feedback from real users to ensure that the website meets their needs and expectations.
 4) Use GDPR Scanner to ensure the website is in compliance with GDPR requirements.
+5) Write test scripts using the Playwright framework to automate testing of the website's user interface and functionality.
+6) Use tools like the Web Content Accessibility Guidelines (WCAG) to ensure website meets accessibility standards for users with disabilities.
+
