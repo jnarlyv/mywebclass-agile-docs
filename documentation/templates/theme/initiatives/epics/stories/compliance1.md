@@ -10,6 +10,6 @@ The website should comply with relevant privacy laws and regulations, such as GD
   
   2) [Create a comprehensive privacy policy that includes required disclosures and consent forms.](https://github.com/jnarlyv/mywebclass-agile-docs/blob/projectmod/documentation/templates/theme/initiatives/epics/stories/tasks/compliance1-2.md)
   
-  3) [Implement cookie consent banners to comply with cookie laws.
+  3) [Implement cookie consent and opt out banners to comply with cookie laws.
 ](https://github.com/jnarlyv/mywebclass-agile-docs/blob/projectmod/documentation/templates/theme/initiatives/epics/stories/tasks/compliance1-3.md)
   
