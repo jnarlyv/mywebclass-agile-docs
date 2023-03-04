@@ -1,4 +1,4 @@
-Task Title: Implement cookie consent banners to comply with cookie laws.
+Task Title: Implement cookie consent and opt out banners to comply with cookie laws.
 
 User Story: As a user, I want to know that my personal information is being protected from unauthorized access, so that I can feel confident in using the website.
 
